@@ -1,0 +1,41 @@
+{
+	"fileName": "id_1590936838296_70_propertyChange",
+	"fileType": "change",
+	"changeType": "propertyChange",
+	"moduleName": "",
+	"reference": "ZETST.zemptesting.Component",
+	"packageName": "$TMP",
+	"content": {
+		"property": "icon",
+		"newValue": "sap-icon://accept"
+	},
+	"selector": {
+		"id": "ZETST.zemptesting::sap.suite.ui.generic.template.ListReport.view.ListReport::ZXYCDSEMPLOYEE--listReportFilter-btnGo",
+		"type": "sap.m.Button",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ZETST.zemptesting/changes/",
+	"projectId": "ZETST.zemptesting",
+	"creation": "2020-05-31T14:54:43.957Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.77.2",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "1.0.0",
+		"from": "1.0.0",
+		"to": "1.0.0"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
